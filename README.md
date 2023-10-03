@@ -20,9 +20,9 @@
 
 ---
 ### ℹ️ About this project 
-- 📚 This project is part of the CPE112 Programming with Data Structure, Computer Engineering, KMUTT
+- 📚 This project is a team project as a part of the `CPE112` `Programming with Data Structure`, Computer Engineering, KMUTT
 - 🎯 The objective is to implement data structures to create real-world applications that align with our interests.
-- 👨🏻‍💻 Team Members
+- 👨🏻‍💻 Team members:
   - Chotanansub Sophaken [GitHub](https://github.com/ChotanansubSoph)
   - Kantapong Vongpanich [GitHub](https://github.com/OnlyJust3rd)
   - Siriyakorn Khiaowijit 
