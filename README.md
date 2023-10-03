@@ -33,7 +33,7 @@
   - Siriyakorn Khiaowijit 
   - [Arithit Nopjaroonsri](https://github.com/Arthit3108)
   - Kanlayaphat Phakobwaitayakij
-  - Suneenad Sanguanin
+  - [Suneenad Sanguanin](https://github.com/suneenad)
 
 
 
