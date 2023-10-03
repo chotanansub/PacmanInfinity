@@ -4,13 +4,13 @@
 
 ### 💡 Project Concept 
 - 🏃🏻 Maze generation using the [Randomize Depth First Search Algorithm](https://www.algosome.com/articles/maze-generation-depth-first.html) : `Randomized DFS`
-- 🧑🏻‍💻 Implemeted in pure `C programming`  
-- 📦 Data Sturture:
-  -  Maze Graph Representation : `Adjacency List`
-  -  Randomized DFS : `Stack`
+- 🧑🏻‍💻 Implemented in pure `C programming`  
+- 📦 Data Structure:
+  -  Graph Representation: `Adjacency List`
+  -  Randomized DFS: `Stack`
 - 🤖 Additional Features
-    - simple User Interface (UI) using concept of ASCII art 
-    - Load & Export maze data in `.txt` format
+    - simple User Interface (UI) using the concept of ASCII art 
+    - Load and export maze data in `.txt` format
 --- 
 
 ### 🚀 Deployment 
