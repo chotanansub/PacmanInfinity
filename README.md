@@ -28,10 +28,10 @@
 ---
 
 - 👨🏻‍💻 Team members:
-  - Chotanansub Sophaken [GitHub](https://github.com/ChotanansubSoph)
-  - Kantapong Vongpanich [GitHub](https://github.com/OnlyJust3rd)
+  - [Chotanansub Sophaken](https://github.com/ChotanansubSoph)
+  - [Kantapong Vongpanich](https://github.com/OnlyJust3rd)
   - Siriyakorn Khiaowijit 
-  - Arithit Nopjaroonsri
+  - [Arithit Nopjaroonsri](https://github.com/Arthit3108)
   - Kanlayaphat Phakobwaitayakij
   - Suneenad Sanguanin
 
