@@ -4,7 +4,7 @@
 
 ### 💡 Project Concept 
 - 🏃🏻 Maze generation using the [Randomize Depth First Search Algorithm](https://www.algosome.com/articles/maze-generation-depth-first.html) : `Randomized DFS`
-- 🧑🏻‍💻 Implemented in pure `C programming`  
+- 🧑🏻‍💻 Implemented in `C programming`  
 - 📦 Data Structure:
   -  Graph Representation: `Adjacency List`
   -  Randomized DFS: `Stack`
