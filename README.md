@@ -30,7 +30,7 @@
 - 👨🏻‍💻 Team members:
   - [Chotanansub Sophaken](https://github.com/ChotanansubSoph)
   - [Kantapong Vongpanich](https://github.com/OnlyJust3rd)
-  - Siriyakorn Khiaowijit 
+  - [Siriyakorn Khiaowijit](https://github.com/prangrock)
   - [Arithit Nopjaroonsri](https://github.com/Arthit3108)
   - [Kanlayaphat Phakobwaitayakij](https://github.com/231031)
   - [Suneenad Sanguanin](https://github.com/suneenad)
