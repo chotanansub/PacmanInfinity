@@ -32,7 +32,7 @@
   - [Kantapong Vongpanich](https://github.com/OnlyJust3rd)
   - Siriyakorn Khiaowijit 
   - [Arithit Nopjaroonsri](https://github.com/Arthit3108)
-  - Kanlayaphat Phakobwaitayakij
+  - [Kanlayaphat Phakobwaitayakij](https://github.com/231031)
   - [Suneenad Sanguanin](https://github.com/suneenad)
 
 
